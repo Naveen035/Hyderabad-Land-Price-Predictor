@@ -66,7 +66,14 @@ The **Hyderabad Land Price Predictor** is a data science project that involves:
    ```bash
    git clone https://github.com/Naveen035/Hyderabad-Land-Price-Predictor.git
    cd Hyderabad-Land-Price-Predictor
-
+   
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Run the Streamlit app**:
+   ```bash
+   streamlit run app.py
 ---
 
 ## 🚀 Future Enhancements
