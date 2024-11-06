@@ -66,3 +66,28 @@ The **Hyderabad Land Price Predictor** is a data science project that involves:
    ```bash
    git clone https://github.com/Naveen035/Hyderabad-Land-Price-Predictor.git
    cd Hyderabad-Land-Price-Predictor
+
+---
+
+## 🚀 Future Enhancements
+- Integrate additional features like property type, age of property, etc.
+- Enhance model accuracy by using advanced ML algorithms or hyperparameter tuning.
+- Deploy the app on cloud platforms for wider accessibility.
+
+---
+
+## 👏 Acknowledgements
+- Special thanks to [NoBroker](https://www.nobroker.in/blog/property-rates-in-hyderabad/) for providing the data source.
+- Inspired by real-world data science and machine learning applications.
+
+---
+
+## ✨ Connect with Me
+Feel free to reach out or contribute to this project! 😊
+
+- **LinkedIn**: [Naveen Kumar](https://www.linkedin.com/in/naveen-kumar1002/)
+- **GitHub**: [Naveen035](https://github.com/Naveen035)
+
+---
+
+> **Note**: The data and prices used in this project refer to the year 2021. Please be aware that current prices may vary due to market fluctuations and recent developments.
