@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
 # Load the trained model (assuming it is a pickle file)
-model = pickle.load(open("hyd_house_prediction\House_Model.pkl", 'rb'))  # replace with your actual model file path
+model = pickle.load(open(r"hyd_house_prediction\House_Model.pkl", 'rb'))  # replace with your actual model file path
 
 # List of places
 places = [
